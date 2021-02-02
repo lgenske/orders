@@ -1,0 +1,9 @@
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Business\bin\Debug\netcoreapp3.1\GFTTestBack.Business.deps.json
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Business\bin\Debug\netcoreapp3.1\GFTTestBack.Business.dll
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Business\bin\Debug\netcoreapp3.1\GFTTestBack.Business.pdb
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Business\obj\Debug\netcoreapp3.1\GFTTestBack.Business.csprojAssemblyReference.cache
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Business\obj\Debug\netcoreapp3.1\GFTTestBack.Business.AssemblyInfoInputs.cache
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Business\obj\Debug\netcoreapp3.1\GFTTestBack.Business.AssemblyInfo.cs
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Business\obj\Debug\netcoreapp3.1\GFTTestBack.Business.csproj.CoreCompileInputs.cache
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Business\obj\Debug\netcoreapp3.1\GFTTestBack.Business.dll
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Business\obj\Debug\netcoreapp3.1\GFTTestBack.Business.pdb

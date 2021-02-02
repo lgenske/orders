@@ -1,0 +1,15 @@
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Data\bin\Debug\netcoreapp3.1\GFTTestBack.Business.dll
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Data\obj\Debug\netcoreapp3.1\GFTTestBack.Data.csprojAssemblyReference.cache
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Data\obj\Debug\netcoreapp3.1\GFTTestBack.Data.AssemblyInfoInputs.cache
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Data\obj\Debug\netcoreapp3.1\GFTTestBack.Data.AssemblyInfo.cs
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Data\bin\Debug\netcoreapp3.1\GFTTestBack.Data.deps.json
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Data\bin\Debug\netcoreapp3.1\GFTTestBack.Data.runtimeconfig.json
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Data\bin\Debug\netcoreapp3.1\GFTTestBack.Data.runtimeconfig.dev.json
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Data\bin\Debug\netcoreapp3.1\GFTTestBack.Data.dll
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Data\bin\Debug\netcoreapp3.1\GFTTestBack.Data.pdb
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Data\bin\Debug\netcoreapp3.1\GFTTestBack.Business.pdb
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Data\obj\Debug\netcoreapp3.1\GFTTestBack.Data.csproj.CoreCompileInputs.cache
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Data\obj\Debug\netcoreapp3.1\GFTTestBack.Data.csproj.CopyComplete
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Data\obj\Debug\netcoreapp3.1\GFTTestBack.Data.dll
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Data\obj\Debug\netcoreapp3.1\GFTTestBack.Data.pdb
+C:\GFTTest\GFTTestBack\src\GFTTestBack.Data\obj\Debug\netcoreapp3.1\GFTTestBack.Data.genruntimeconfig.cache
